@@ -1,4 +1,4 @@
-* Razões para que problemas estejam modelados com *unboundedness*:
+* Razões para que problemas estejam modelados com *unboundedness*, (ou seja, ficou irrestrito):
 	* Alguma variável livre deveria ser não negativa
 	* A direcão da otimizacão está invertida
 	* Alguma restricão foi omitida.
